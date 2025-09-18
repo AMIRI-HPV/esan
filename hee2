@@ -229,7 +229,7 @@ local handlers = {
         name = "Pet Simulator 99",
         action = function()
             -- user-provided GitHub raw (wrapped with true)
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/ingeniousmainmn/Universal/refs/heads/main/Universal", true))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/AMIRI-HPV/esan/refs/heads/main/hee2", true))()
         end
     },
 
