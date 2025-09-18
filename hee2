@@ -4,7 +4,6 @@
 -- 142823291      = Murder Mystery 2
 -- 920587237      = Adopt Me
 -- 18901165922    = PETS GO
--- 8737899170     = Pet Simulator 99
 
 -- Services
 local Players = game:GetService("Players")
